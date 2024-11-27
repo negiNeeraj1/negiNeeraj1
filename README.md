@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Web_Developer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<img src="[https://imgs.search.brave.com/NzLnKic1SAUhYLjkS01D-YkJ3qjTx0UVQB8h-lx6Jn0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LXBlbmd1aW4taS1s/aWtlLXByZXNzaW5n/LWJ1dHRvbnMtcHV2/M2NvYzV6NHBrdGg1/MS5naWY.gif](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)"  width="800" height="400" align="right" alt="Coding">
 <h1 align="center">Hi 👋, I'm Neeraj Singh Negi</h1>
 <h3 align="center">An Aspiring MERN full stack developer from India</h3>
 
